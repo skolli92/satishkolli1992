@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Satish Kolli
+- 👋 Hi, I’m Satish Kolli. I am a materials engineer with a background in materials science
 - 👀 I’m interested in Materials informatics
 - 🌱 I’m currently learning python programming and machinenlearning
 - 💞️ I’m looking to collaborate on projects that help digitalize steel industry and applications with in steel development
