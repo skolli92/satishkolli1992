@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Satish Kolli. Specialized in materials and metallurgical engineering, I’ve amassed over 5 years’ experience in materials research. I’m passionate about translating academic knowledge into reality offering tangible results in line with the steel industry expectations. I am currently working as a Materials Informatics Engineer.
-- 👀 I’m interested in Materials informatics.
-- 🌱 I’m currently learning python programming and machinenlearning.
-- 💞️ I’m looking to collaborate on projects that help digitalize steel industry and applications with in steel development
+- 👋 Hi, I’m Satish Kolli. Specialized in materials engineering and materials informatics, I’ve amassed over 6 years’ experience in materials research. I’m passionate about translating knowledge into reality offering tangible results in line with the industry expectations. I am currently working as a Data steward / Research data officer at KIT, Germany.
+- 👀 I’m interested in research data management, materials informatics and machine learning
+- 🌱 I’m currently learning deep learning concepts
+- 💞️ I’m looking to collaborate on projects that help digitalize materials science
 - 📫 How to reach me ...
 
 <!---
